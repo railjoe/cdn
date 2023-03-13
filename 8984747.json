@@ -1,0 +1,116 @@
+{
+  "bookings" : [
+    {
+      "checkin" : "2022-04-01T14:00:00Z",
+      "id" : 8955023880979749844,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-04-03T14:00:00Z",
+      "hotel" : {
+        "id" : 7325653972857064469,
+        "cityName" : "Milan",
+        "name" : "Château Monfort - Relais & Châteaux",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/220059420.jpg?k=8d35789d99875f87ff72acd03fb67d166a38e3ede565ed517ca1520121f01874&o=&hp=11"
+      }
+    },
+    {
+      "checkin" : "2022-04-19T14:00:00Z",
+      "id" : 1543656854670697944,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-04-24T14:00:00Z",
+      "hotel" : {
+        "id" : 8170409906179453719,
+        "cityName" : "Amalfi",
+        "name" : "NH Collection Grand Hotel Convento di Amalfi",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/267009146.jpg?k=660368ae042748f93c7ccf44cb7b25dfbce8cb86bc259de4fda0813283c27019&o=&hp=1"
+      }
+    },
+    {
+      "checkin" : "2022-03-27T11:00:00Z",
+      "id" : 1640643079721399907,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-04-01T14:00:00Z",
+      "hotel" : {
+        "id" : 2376717105074698364,
+        "cityName" : "Milan",
+        "name" : "Rosa Grand Milano - Starhotels Collezione",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/264158980.jpg?k=9f4c03eb0c62962497b7b6d0137fda5b4cf52147a560f4849a01a724ab052ffb&o=&hp=1"
+      }
+    },
+    {
+      "checkin" : "2022-04-07T14:00:00Z",
+      "id" : 1082442195009356260,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-04-16T11:00:00Z",
+      "hotel" : {
+        "id" : 7325653972857064469,
+        "cityName" : "Milan",
+        "name" : "Château Monfort - Relais & Châteaux",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/220059420.jpg?k=8d35789d99875f87ff72acd03fb67d166a38e3ede565ed517ca1520121f01874&o=&hp=11"
+      }
+    },
+    {
+      "checkin" : "2022-04-24T14:00:00Z",
+      "id" : 4811592803082757664,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-05-09T11:00:00Z",
+      "hotel" : {
+        "id" : 63890591998001529,
+        "cityName" : "Amalfi",
+        "name" : "Albergo Miramare Positano",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/52262839.jpg?k=063666f1d8734967fe65d6185a0750cc30b3212d10499c8c2651941c4a78ea47&o=&hp=1"
+      }
+    },
+    {
+      "checkin" : "2022-04-03T14:00:00Z",
+      "id" : 4310429914132356509,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-04-07T14:00:00Z",
+      "hotel" : {
+        "id" : 8302300243723870640,
+        "cityName" : "Milan",
+        "name" : "Hotel Dei Cavalieri Milano Duomo",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/84555172.jpg?k=028ecdf3e14bb934fdf2a411004000dbcb6b6a94baaa2a13fbf41ff093b4c391&o=&hp=1"
+      }
+    },
+    {
+      "checkin" : "2022-04-16T14:00:00Z",
+      "id" : 7742415073873598743,
+      "booker" : {
+        "id" : 89467,
+        "firstName" : "Marilyn",
+        "lastName" : "Loren"
+      },
+      "checkout" : "2022-04-19T11:00:00Z",
+      "hotel" : {
+        "id" : 6786019208146720635,
+        "cityName" : "Florence",
+        "name" : "Firenze Camping In Town",
+        "heroImageUrl" : "https:\/\/cf.bstatic.com\/xdata\/images\/hotel\/max1024x768\/208620626.jpg?k=e93b419894128698097727139e16d96b2222026c9edbdb06abda72e60d3031ab&o=&hp=1"
+      }
+    }
+  ]
+}
